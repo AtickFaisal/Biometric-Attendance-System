@@ -1,6 +1,7 @@
 ## Biometric Attendance System
 
 # Folder Structure
+```bash
 .
 ├── Desktop Software
 │   ├── Biometric_Attendance
@@ -56,6 +57,7 @@
 │       └── src
 │           └── main.cpp
 └── README.md
+```
 
 ** Components Used :*
 
