@@ -1,6 +1,6 @@
-## Biometric Attendance System
+# Biometric Attendance System
 
-# Folder Structure
+## Folder Structure
 ```bash
 .
 ├── Desktop Software
