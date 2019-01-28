@@ -1,4 +1,4 @@
-# Biometric Attendance System
+﻿# Biometric Attendance System
 
 ## Folder Structure
 ```bash
@@ -75,3 +75,7 @@
 1. Wireless
 2. All data is saved in online database (Google Firebase)
 3. Full record of attendance in Excel file
+
+
+Hello world
+
